@@ -1,0 +1,1 @@
+C:\rust\exer10\exer10\target\debug\exer10.exe: C:\rust\exer10\exer10\src\dynamic.rs C:\rust\exer10\exer10\src\files.rs C:\rust\exer10\exer10\src\lib.rs C:\rust\exer10\exer10\src\main.rs C:\rust\exer10\exer10\src\tests.rs

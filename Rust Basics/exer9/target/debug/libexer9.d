@@ -1,0 +1,1 @@
+C:\rust\exer9\target\debug\libexer9.rlib: C:\rust\exer9\src\inventory.rs C:\rust\exer9\src\inventory_tests.rs C:\rust\exer9\src\lib.rs C:\rust\exer9\src\primes.rs C:\rust\exer9\src\primes_tests.rs C:\rust\exer9\src\sum.rs C:\rust\exer9\src\sum_tests.rs C:\rust\exer9\src\test_helpers.rs

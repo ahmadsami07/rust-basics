@@ -1,0 +1,1 @@
+C:\rust\exer8(2)\exer8\target\debug\libexer8.rlib: C:\rust\exer8(2)\exer8\src\lib.rs C:\rust\exer8(2)\exer8\src\rational.rs C:\rust\exer8(2)\exer8\src\rational_tests.rs C:\rust\exer8(2)\exer8\src\sort.rs C:\rust\exer8(2)\exer8\src\sort_tests.rs

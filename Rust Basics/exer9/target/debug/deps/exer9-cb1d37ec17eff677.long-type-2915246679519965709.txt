@@ -1,0 +1,1 @@
+FlatMap<<impl IntoIterator<Item = &'a InventoryItem> as IntoIterator>::IntoIter, (), [closure@src\inventory.rs:51:19: 51:25]>
